@@ -7,9 +7,9 @@ So, if we check the length of the raw twitts, there will be twitts, which are mu
 
 This picture below illustrates the state before cleaning.
 
-![alt text](https://github.com/EkaterinaO/Twitter-sentiment-analysis/blob/master/img/before_cleaning.png)
+![alt text](https://github.com/EkaterinaO/Twitts/blob/master/img/before_cleaning.png)
 
 This picture illustrates the state after cleaning.
 
-![alt text](https://github.com/EkaterinaO/Twitter-sentiment-analysis/blob/master/img/after_cleaning.png)
+![alt text](https://github.com/EkaterinaO/Twitts/blob/master/img/after_cleaning.png)
  
